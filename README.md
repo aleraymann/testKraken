@@ -1,1 +1,1 @@
-testKraken
+Testando as funcionalidades do GitKraken
